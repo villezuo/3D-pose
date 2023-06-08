@@ -11,6 +11,17 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/control_utils": "^0.6.1675466023",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/face_detection": "^0.4.1646425229",
+    "@mediapipe/face_mesh": "^0.4.1633559619",
+    "@mediapipe/hands": "^0.4.1675469240",
+    "@mediapipe/holistic": "^0.5.1675471629",
+    "@mediapipe/objectron": "^0.4.1675468480",
+    "@mediapipe/pose": "^0.5.1675469404",
+    "@mediapipe/selfie_segmentation": "^0.1.1675465747",
+    "@mediapipe/tasks-vision": "^0.10.1",
     "@tauri-apps/api": "2.0.0-alpha.4",
     "vue": "^3.2.45"
   },
